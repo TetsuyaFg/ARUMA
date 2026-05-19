@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class Aruma {
     static Scanner aruma = new Scanner(System.in);
-
     public static void main(String[] arg) {
         int opcion = 0;
         while (opcion != 2) {
